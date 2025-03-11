@@ -24,14 +24,14 @@
 
 ### 📊 **GitHub Stats**:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdamKN0&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdamKN0&show_icons=true&theme=blueberry" alt="GitHub Stats" />
 </p>
 
 ---
 
 ### 📈 **Most Used Languages**:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamKN0&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamKN0&layout=compact&theme=blueberry" alt="Top Languages" />
 </p>
 
 ---
@@ -55,8 +55,33 @@
 
 ---
 
-<p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #ddd; font-size: 18px;">
+<p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #a3c4d7; font-size: 18px;">
   😎 *Code hard, dream big!* 😎
 </p>
 
 ---
+
+<style>
+  body {
+    background-color: #1e2a47;
+    color: #e4f1f7;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  h1, h2 {
+    color: #84a9ac;
+  }
+
+  p {
+    color: #a3c4d7;
+  }
+
+  a {
+    color: #4fa3f7;
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: #d9b1f5;
+  }
+</style>
