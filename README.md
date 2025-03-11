@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently learning **Databases**, **Docker**, and **Django**  
 - 💻 Skilled in **Python**, **C**, **C++**  
-- 🌱 Exploring **Backend Development** and **Cloud Infrastructure**  
+- 🌱 Exploring **Backend Development** and **DevOps** 
 - 🎯 Goal: Become a **Full-Stack Developer** and **Backend Expert**  
 - 🏫 Studying at **1337 Coding School (Med)**  
 - 📫 Reach me at **[kenaouiadam8@gmail.com](mailto:kenaouiadam8@gmail.com)**  
@@ -16,7 +16,7 @@
 
 ### 🚀 Languages and Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,cpp,html,css,js,docker,mysql,django,linux" />
+  <img src="https://skillicons.dev/icons?i=c,python,cpp,html,css,js,linux" />
 </p>
 
 ---
@@ -47,11 +47,6 @@
 
 ---
 
-### ✨ Fun Fact:  
-💡 I can write complex C programs faster than I can explain them! 😎
-
----
-
 **🚀 Let's Connect:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenaoui-adam-876b06253/)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=flat-square&logo=github&logoColor=white)](https://github.com/adamkenaoui)  
@@ -62,4 +57,3 @@
 😎 *Code hard, dream big!* 😎  
 
 ---
-
