@@ -48,7 +48,7 @@
   <a href="https://www.linkedin.com/in/kenaoui-adam-876b06253/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/adamkenaoui" target="_blank">
+  <a href="https://github.com/AdamKN0" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
@@ -61,27 +61,3 @@
 
 ---
 
-<style>
-  body {
-    background-color: #1e2a47;
-    color: #e4f1f7;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  }
-
-  h1, h2 {
-    color: #84a9ac;
-  }
-
-  p {
-    color: #a3c4d7;
-  }
-
-  a {
-    color: #4fa3f7;
-    text-decoration: none;
-  }
-
-  a:hover {
-    color: #d9b1f5;
-  }
-</style>
