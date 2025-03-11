@@ -28,6 +28,12 @@
 
 ---
 
+### 🚀 **42 Badge**:
+<p align="center">
+  [![Kadam's 42 stats](https://badge.mediaplus.ma/darkblue/kadam)](https://github.com/oakoudad/badge42)
+</p>
+
+---
 
 **🚀 Let's Connect:**  
 
